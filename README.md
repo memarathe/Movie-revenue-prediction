@@ -1,7 +1,5 @@
 # Movie Revenue Prediction and Network Analysis
 
-## Overview
-
 This project explores the key factors influencing movie revenue using machine learning and network analysis techniques.  By combining predictive modeling with social network analysis of cast and crew relationships, the project aims to provide actionable insights for movie producers and directors to optimize financial outcomes.  The workflow includes data preprocessing, exploratory data analysis, network construction, and predictive model development.
 
 ## Data
