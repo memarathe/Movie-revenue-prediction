@@ -25,11 +25,17 @@ This project has the potential to significantly impact the film industry by prov
 *   **Targeted Marketing Strategies:** Tailor marketing campaigns to specific audiences based on genre preferences and movie characteristics.
 *   **Reduced Financial Risk:**  Make more informed investment decisions by leveraging predictive models to assess the potential profitability of a movie before its release.
 
+## Data insight and Visualizations
+![quarter-rating-relation](https://github.com/user-attachments/assets/7f8382b9-7a45-4ab1-a3da-17f1e8c373b0)  ![quarter-metascore-relation](https://github.com/user-attachments/assets/017ff1b5-568c-4d59-873d-6e6d0516e210)
+
+**The bar plots reveal a clear trend: both Aggregate Rating and Metascore are notably lower for movies released in the fourth quarter (October-December).**
+
+
 ## Setup
 
 1.  **Clone the repository:**
     ```
-    git clone [repository URL]
+    git clone https://github.com/memarathe/Movie-revenue-prediction.git
     cd [repository directory]
     ```
 2.  **Install dependencies:**
