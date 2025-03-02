@@ -12,7 +12,7 @@ The project is organized into several Jupyter Notebooks:
 
 *   `gross_revenue_prediction.ipynb`:  Loads and preprocesses the data, performs basic EDA, and sets the stage for predictive modeling.
 *   `relations.ipynb`: Constructs movie-actor networks and calculates centrality measures for actors and movies.  Demonstrates the use of network analysis to derive features.
-*   `rating-quarter-EDA.ipynb`: Explores patterns and trends in movie ratings across different quarters of the year. (Note: Unable to extract detail due to file read error)
+*   `rating-quarter-EDA.ipynb`: Explores patterns and trends in movie ratings across different quarters of the year.
 
 
 ## Impact
